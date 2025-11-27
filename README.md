@@ -1,5 +1,8 @@
 # Конвертер цветов HEX в RGB
 
+[![Vercel Deploy](https://img.shields.io/github/deployments/alexander-bakshaev/ra-homeworks-4-forms-hex2rgb/production?label=vercel&logo=vercel)](https://vercel.com/alexander-bakshaev/ra-homeworks-4-forms-hex2rgb)
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=flat&logo=vercel)](https://ra-homeworks-4-forms-hex2rgb-rkc7fj1zs-alexs-projects-942dd518.vercel.app)
+
 Простое React-приложение для конвертации цветов из HEX в RGB формат с предпросмотром.
 
 ## ✨ Особенности
